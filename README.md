@@ -6,5 +6,7 @@
 [![Steam Paytonjhall](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/paybaeslay/)
 [![Strava Paytonjhall](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/179143213)
 [![LeetCode Paytonjhall](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Paytonjhall/)
+[![Apple Music Paytonjhall](https://img.shields.io/badge/apple%20music-FA243C?style=for-the-badge&logo=apple%20music&logoColor=white
+)](https://music.apple.com/profile/paythall)
 
 ![profilePic.png](profilePic.png)
