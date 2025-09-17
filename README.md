@@ -19,4 +19,22 @@
 <img src="https://ghchart.rshah.org/paytonjhall" alt="Your GitHub chart" />
 
 
+<meter min="0" max="100" low="20" high="90" optimum="90" value="50">50%</meter>
+<label for="car-make">Choose a car make:</label>
 
+<input list="car-makes" id="car-make" name="car-makes" placeholder="Select make.." />
+
+
+<datalist id="car-makes" >
+
+    <option value="BMW">
+
+    <option value="Tesla">
+
+    <option value="Toyota">
+
+    <option value="Volkswaggon">
+
+    <option value="Mazda">
+
+</datalist>
