@@ -18,9 +18,6 @@
 <h3> :books: Currently reading/listening to: <i><a href="https://en.wikipedia.org/wiki/Mistborn:_The_Hero_of_Ages">Mistborn: The hero of ages</a></i> by Brandon Sanderson </h3>
 <h3> :video_game: Currently playing: <i><a href="https://store.steampowered.com/app/427520/Factorio/">Factorio</a></i> and <i><a href="https://store.steampowered.com/app/2862890/Become_the_Moon/">Become the Moon</a></i> </h3>
 <h3> :computer: Currently working on: Java deck building game called <a href="https://github.com/Paytonjhall/DeckDealer">DeckDealer</a>, as well as my github profile. </h3>
-<h3> :music: Currently listening to </h3> [Music](https://gabalpha.github.io/read-audio/?p=https://archive.org/serve/TimeTraxMD/01.%20Music%2000.mp3)
 <audio controls>
   <source src="saja-boy-jingle.mp3" type="audio/mpeg">
 </audio>
-[![Linkedin: Payton Hall](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payton-hall-47a498125/)
-[Music](https://gabalpha.github.io/read-audio/?p=https://archive.org/serve/TimeTraxMD/01.%20Music%2000.mp3)
