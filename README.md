@@ -9,14 +9,21 @@
 [![Apple Music Paytonjhall](https://img.shields.io/badge/apple%20music-FA243C?style=for-the-badge&logo=apple%20music&logoColor=white
 )](https://music.apple.com/profile/paythall)
 
-```html
 <div align="center">
-  <br/>
+  <br>
   <a href="https://github.com/Paytonjhall/Paytonjhall/test-css.svg">
     <img alt="Payton Hall" height="400" src="test-css.svg" width="800" />
   </a>
-  <br/>
+  <br>
 </div>
-```
+<div>
+<br>
+  <a href="https://github.com/Paytonjhall/Paytonjhall/intro.svg">
+    <img alt="Payton Hall" height="400" src="test-css.svg" width="800" />
+  </a>
+  <br>
+</div>
+
+
 
 ![profilePic.png](profilePic.png)
