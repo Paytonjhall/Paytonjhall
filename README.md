@@ -27,14 +27,14 @@
 
 <datalist id="car-makes" >
 
-    <option value="BMW">
+<option value="BMW">
 
-    <option value="Tesla">
+<option value="Tesla">
 
-    <option value="Toyota">
+<option value="Toyota">
 
-    <option value="Volkswaggon">
+<option value="Volkswaggon">
 
-    <option value="Mazda">
+<option value="Mazda">
 
 </datalist>
