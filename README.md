@@ -19,7 +19,7 @@
 <div>
 <br>
   <a href="https://github.com/Paytonjhall/Paytonjhall/intro.svg">
-    <img alt="Payton Hall" height="400" src="intro.svg" width="800" />
+    <img alt="Payton Hall" height="400" src="file.svg" width="800" />
   </a>
   <br>
 </div>

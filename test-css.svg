@@ -78,6 +78,7 @@
             </style>
             <div class="container">
                 <h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
+                <img src="profilePic.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; margin: 20px 0;"/>
             </div>
         </div>
     </foreignObject>
