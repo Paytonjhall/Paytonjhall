@@ -12,8 +12,8 @@
 
 ![profilePic.png](profilePic.png)
 # About Me
-:books: Currently reading/listening to: *Mistborn: The hero of ages* by Brandon Sanderson
+### :books: Currently reading/listening to: *Mistborn: The hero of ages* by Brandon Sanderson
 <br>
-Currently playing: *Factorio* and *Become the Moon*
+### :video_game: Currently playing: *Factorio* and *Become the Moon*
 <br>
-Currently working on: Java deck building game called DeckDealer, as well as my github profile.
+### :computer: Currently working on: Java deck building game called DeckDealer, as well as my github profile.
