@@ -12,6 +12,6 @@
 
 ![profilePic.png](profilePic.png)
 # About Me
-<h3> :books: Currently reading/listening to: <i>Mistborn: The hero of ages</i> by Brandon Sanderson </h3>
-<h3> :video_game: Currently playing: <i>Factorio</i> and <i>Become the Moon</i> </h3>
-<h3> :computer: Currently working on: Java deck building game called DeckDealer, as well as my github profile. </h3>
+<h3> :books: Currently reading/listening to: <i><a href="https://en.wikipedia.org/wiki/Mistborn:_The_Hero_of_Ages">Mistborn: The hero of ages</a></i> by Brandon Sanderson </h3>
+<h3> :video_game: Currently playing: <i><a href="https://store.steampowered.com/app/427520/Factorio/">Factorio</a></i> and <i><a href="https://store.steampowered.com/app/2862890/Become_the_Moon/">Become the Moon</a></i> </h3>
+<h3> :computer: Currently working on: Java deck building game called <a href="https://github.com/Paytonjhall/DeckDealer">DeckDealer</a>, as well as my github profile. </h3>
